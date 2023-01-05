@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373920867565",
+    "firebase_url": "https://lifeincity-17011-default-rtdb.firebaseio.com",
+    "project_id": "lifeincity-17011",
+    "storage_bucket": "lifeincity-17011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373920867565:android:ca3d4a7c6d6e28b4c058e4",
+        "android_client_info": {
+          "package_name": "com.example.lifeincity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373920867565-2he5rmstodqstfe5mt8djiabjt3itiu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmAoCXY_Ve7r1Rtjz3Bk3g7LPdHCoTcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373920867565-2he5rmstodqstfe5mt8djiabjt3itiu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
