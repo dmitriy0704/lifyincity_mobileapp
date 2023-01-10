@@ -25,6 +25,8 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name="com.example.lifeincity_app.ReadActivity" />
+        <activity android:name="com.example.lifeincity_app.ShowActivity" />
     </application>
 
 </manifest>
